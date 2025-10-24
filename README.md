@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:FF6B6B&height=200&section=header&text=Sherbin872&fontSize=70&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20%26%20IoT%20Enthusiast&descAlignY=65&descSize=20" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:FF6B6B&height=200&section=header&text=Sherbin872&fontSize=70&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20%26%20IoT%20Enthusiast&descAlignY=65&descSize=20)
+
 
 <!-- Animated Greeting -->
 <h1 align="center">
@@ -111,7 +112,7 @@ const sherbin = {
 
 ## 🐍 Contribution Snake Animation
 
-<img src="https://raw.githubusercontent.com/Sherbin872/Sherbin872/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Sherbin872/Sherbin872/raw/output/github-contribution-grid-snake.svg" />
 
 ---
 
