@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sherbin%20C&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
 
 <!-- Animated Greeting -->
 <h1 align="center">
@@ -52,97 +51,96 @@ const sherbin = {
 ## 🛠️ Tech Stack & Superpowers
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark&perline=7" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark&perline=7" />
+</div>
 
 ### 🌐 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,materialui,bootstrap,sass&theme=dark&perline=7" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,materialui,bootstrap,sass&theme=dark&perline=7" />
+</div>
 
 ### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql&theme=dark&perline=7" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql&theme=dark&perline=7" />
+</div>
 
 ### 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,heroku&theme=dark&perline=7" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,heroku&theme=dark&perline=7" />
+</div>
 
 ### 📱 Mobile & Others
-<img src="https://skillicons.dev/icons?i=reactnative,flutter,arduino,raspberrypi,linux,vscode,figma&theme=dark&perline=7" />
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🎓 **Student Management System** | Comprehensive student data management with analytics dashboard | React, Node.js, MongoDB |
-| 🏢 **Company Website** | Modern responsive corporate website with optimized performance | Next.js, Tailwind CSS |
-| 🔧 **Utility Tools Collection** | Collection of useful web utilities and tools | HTML, CSS, JS |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter,arduino,raspberrypi,linux,vscode,figma&theme=dark&perline=7" />
+</div>
 
 ---
 
 ## 📊 GitHub Analytics & Metrics
 
+<div align="center">
+
+### 📈 GitHub Stats
 <table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Sherbin872&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherbin872&theme=radical&hide_border=true&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&background=0D1117" />
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherbin872&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Sherbin's%20Contribution%20Graph&color=00D4FF&line=00D4FF&point=FFFFFF" />
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sherbin872&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherbin872&theme=radical&hide_border=true&fire=00D4FF&ring=00D4FF&currStreakLabel=00D4FF&background=0D1117" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
 
----
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherbin872&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
 
-## 🏆 GitHub Achievement Trophies
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Sherbin872&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sherbin872&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherbin872&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Sherbin's%20Contribution%20Graph&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Contribution Graph" />
 
----
+</div>
 
-## 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherbin872&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
-
----
-
-## 🐍 Contribution Snake Animation
-
-<img src="https://github.com/Sherbin872/Sherbin872/raw/output/github-contribution-grid-snake.svg" />
 
 ---
+
+
 
 ## 🌟 Current Focus & Goals 2024
 
 | 🎯 Goal | 📊 Progress | 🔥 Status |
-|----------|--------------|-----------|
-| Advanced React Projects | ![](https://progress-bar.xyz/85/?title=Completed&color=00D4FF) | 🚀 Active Development |
-| Backend API Development | ![](https://progress-bar.xyz/70/?title=Learning&color=00FF88) | 📚 In Progress |
-| Open Source Contributions | ![](https://progress-bar.xyz/50/?title=Contributing&color=FFD700) | 🤝 Exploring |
-| Cloud Deployment Skills | ![](https://progress-bar.xyz/65/?title=Deploying&color=FF6B6B) | ☁️ Learning |
+|----------|-------------|------------|
+| Advanced React Projects | ![Progress](https://progress-bar.xyz/85/?title=Completed&color=00D4FF) | 🚀 Active Development |
+| Backend API Development | ![Progress](https://progress-bar.xyz/70/?title=Learning&color=00FF88) | 📚 In Progress |
+| Open Source Contributions | ![Progress](https://progress-bar.xyz/50/?title=Contributing&color=FFD700) | 🤝 Exploring |
+| Cloud Deployment Skills | ![Progress](https://progress-bar.xyz/65/?title=Deploying&color=FF6B6B) | ☁️ Learning |
 
 ---
 
-## 💬 Tech Talk & Collaboration
+## 🧩 LeetCode Stats
 
-**Currently Exploring:**  
-- Microservices with Node.js  
-- Real-time Apps using WebSockets  
-- PWA Development  
-- Cloud-native Development on AWS  
-- AI Integration in Web Apps  
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/sherbin?theme=dark&font=Roboto&ext=heatmap" />
 
-**Open for Collaboration On:**  
-- Open Source Web Projects  
-- IoT + Web Integration  
-- Startup MVPs  
-- Hackathons & Learning Resources  
+### 📊 Coding Progress
+
+| Difficulty | Problems Solved | Milestone |
+|-------------|----------------|------------|
+| 🟢 Easy | 120+ | Consistent Practice |
+| 🟡 Medium | 80+ | Improving Logic |
+| 🔴 Hard | 15+ | Challenging Myself |
+
+🏅 **Current Rank:** 45,000  
+🔥 **Longest Streak:** 30 days  
+💡 **Focus Areas:** Arrays, DP, Trees  
+</div>
 
 ---
+
+
 
 ## 📞 Let's Connect & Collaborate
 
@@ -160,14 +158,13 @@ const sherbin = {
 ## ✨ Developer Mantra
 
 <div align="center">
-<blockquote>"Code is like humor. When you have to explain it, it's bad." — Cory House</blockquote>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-<br/>
-<b>"Building the future, one commit at a time..." 🚀</b>
+  <blockquote>"Code is like humor. When you have to explain it, it's bad." — Cory House</blockquote>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <br/>
+  <b>"Building the future, one commit at a time..." 🚀</b>
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true&animation=twinkling" />
-
-⭐️ From [Sherbin872](https://github.com/Sherbin872)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true&animation=twinkling" />
+  ⭐️ From Sherbin872
+</div>
